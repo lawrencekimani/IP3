@@ -22,7 +22,7 @@ CSS - For styling the user interface
 Javascript - For document object manipulation
 Bootstrap - For styling the interface
 jQuery - To easen use of JavaScript on your website
-Live site
+Live site https://lawrencekimani.github.io/IP3/
 
 
 Support and contact details
