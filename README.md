@@ -1,7 +1,7 @@
 iPweek-3
 Delani Studio Project
 14/04/2020
-By LAWRENCE KIMANI KIMEMIA
+By LAWRENCE KIMANI 
 Description
 This is a web application that modifies and styles a fictional studio
 
