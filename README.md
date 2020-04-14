@@ -11,7 +11,7 @@ Form to be filled	User enters required credentials	Dialog box with respective na
 Setup/Installation Requirements
 Create an account on Github website
 Fork the repository from Github:
-Clone the link
+Clone the link https://lawrencekimani.github.io/IP3/
 Open the link from where the repository is saved
 Known Bugs
 None.
